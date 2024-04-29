@@ -1,0 +1,21 @@
+{
+  "name": "reserva",
+  "version": "1.0.0",
+  "description": "Projeto criado em LP Curso: Técnico de Informática Integrado ao Ensino Médio IFSP- Campus Caraguatatuba",
+  "main": "server.js",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Beatriz dos Santos Lopes",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "sucrase": "^3.35.0"
+  }
+}
