@@ -4,7 +4,7 @@
   "description": "Projeto criado em LP Curso: Técnico de Informática Integrado ao Ensino Médio IFSP- Campus Caraguatatuba",
   "main": "server.js",
   "scripts": {
-    "dev": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js"
   },
   "keywords": [
     "Node.JS",
