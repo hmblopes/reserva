@@ -23,7 +23,7 @@ class ReserveController {
             return res.status(400).json({ error: 'Essa casa não existe.' });
         }
 
-        if(house4.status !== true){
+        if(house.status !== true){
             return res.status(400).json({ error: 'Solicitação indisponível.'});
         }
 
