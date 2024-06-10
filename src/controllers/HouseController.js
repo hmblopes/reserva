@@ -75,4 +75,4 @@ class HouseController {
     }
 }
 
-export default new HouseController()
+export default new HouseController();
